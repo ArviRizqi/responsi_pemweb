@@ -138,14 +138,14 @@
       <h4 class="font-semibold">Certificate</h4>
       <div class="card h-auto my-2">
         <div class="card-body">
-          <h6 class="d-flex text-xl align-items-center mb-1">Nama</h6>
+          <h6 class="d-flex text-xl align-items-center mb-1">Belajar Pemrograman Dasar Web</h6>
           <hr class="w-40 h-[2px] mt-1 mb-3 bg-gray-100 border-0 rounded md:my-10 dark:bg-gray-700">
           <div class="flex">
             <div class="w-2/3">
-              <h6 class="font-normal text-md"><i>penyelenggara</i></h6>
+              <h6 class="font-normal text-md"><i>Dicoding</i></h6>
             </div>
             <div class="w-1/3 text-end">
-              <h6><b>tahun</b></h6>
+              <h6><b>Mei, 27 2023</b></h6>
             </div>
           </div>
         </div>
