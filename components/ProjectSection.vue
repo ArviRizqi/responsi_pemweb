@@ -9,32 +9,32 @@
         <div class="bg-white rounded-lg shadow-md border border-gray-100 overflow-hidden">
           <div class="p-6">
             <h3 class="text-xl font-semibold mb-2">My-Movie</h3>
-            <p class="text-gray-700 mb-4">Brief description of the project goes here. This is just a placeholder text.</p>
-            <a href="#" class="text-blue-500 hover:underline">Read more</a>
+            <p class="text-gray-800 font-medium text-lg mb-4">Brief description of the project goes here. This is just a placeholder text.</p>
+            <a href="https://github.com/ArviRizqi/my-movie" class="text-blue-500 btn btn-primary hover:underline">view more</a>
           </div>
         </div>
         <!-- Project Card 2 -->
         <div class="bg-white rounded-lg shadow-md border border-gray-100 overflow-hidden">
           <div class="p-6">
             <h3 class="text-xl font-semibold mb-2">Smart Security</h3>
-            <p class="text-gray-700 mb-4">Brief description of the project goes here. This is just a placeholder text.</p>
-            <a href="#" class="text-blue-500 hover:underline">Read more</a>
+            <p class="text-gray-800 font-medium text-lg mb-4">Brief description of the project goes here. This is just a placeholder text.</p>
+            <a href="https://github.com/ArviRizqi/Smart-Security" class="text-blue-500 btn btn-primary hover:underline">view more</a>
           </div>
         </div>
         <!-- Project Card 3 -->
         <div class="bg-white rounded-lg shadow-md border border-gray-100 overflow-hidden">
           <div class="p-6">
             <h3 class="text-xl font-semibold mb-2">Sakti Library</h3>
-            <p class="text-gray-700 mb-4">Brief description of the project goes here. This is just a placeholder text.</p>
-            <a href="#" class="text-blue-500 hover:underline">Read more</a>
+            <p class="text-gray-800 font-medium text-lg mb-4">Brief description of the project goes here. This is just a placeholder text.</p>
+            <a href="https://github.com/saktiworkstation/perpustakaan-six" class="text-blue-500 btn btn-primary hover:underline">view more</a>
           </div>
         </div>
         <!-- Project Card 4 -->
         <div class="bg-white rounded-lg shadow-md border border-gray-100 overflow-hidden">
           <div class="p-6">
             <h3 class="text-xl font-semibold mb-2">Housing Price Prediction</h3>
-            <p class="text-gray-700 mb-4">Brief description of the project goes here. This is just a placeholder text.</p>
-            <a href="#" class="text-blue-500 hover:underline">Read more</a>
+            <p class="text-gray-800 font-medium text-lg mb-4">Brief description of the project goes here. This is just a placeholder text.</p>
+            <a href="https://github.com/ArviRizqi/house-price-predictions" class="text-blue-500 btn btn-primary hover:underline">view more</a>
           </div>
         </div>
       </div>
